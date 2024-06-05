@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f3245c22-891b-4082-ae15-fd8240110d8d",
+    "name": "Fiesta",
+    "releaseYear": 2024,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "6c50a759-e226-4ccd-b7d6-2a68317b18ae",
+    "name": "Aventador",
+    "releaseYear": 2024,
+    "available": true,
+    "gasAvailable": true
+  }
+]
